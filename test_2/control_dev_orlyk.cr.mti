@@ -1,0 +1,9 @@
+C:/altera/91/modelsim_ase/examples/test_2/control_dev_orlyk.v {1 {vlog -work work -nocovercells C:/altera/91/modelsim_ase/examples/test_2/control_dev_orlyk.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Control_Dev_Orlyk
+-- Compiling module tb_Control_Dev_Orlyk
+
+Top level modules:
+	tb_Control_Dev_Orlyk
+
+} {} {}}
