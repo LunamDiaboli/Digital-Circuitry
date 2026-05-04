@@ -1,0 +1,111 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\91\modelsim_ase\examples\Lab6
+vadder_6bit_ref
+IJ68;1[?d>^e4kKiLY=Ak81
+VjSM83Y9LXO_kW>6kG:4me0
+w1777906953
+8C:/altera/91/modelsim_ase/examples/Lab6/adder_6bit_ref.v
+FC:/altera/91/modelsim_ase/examples/Lab6/adder_6bit_ref.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
+!s100 P]=Kh9N7ZMQeU5H_[>72S0
+!s85 0
+!s101 -O0
+vadder_6bit_struct
+IRQVBe_d:S^5n>hCB8;CF:1
+VMXOlL6=lhKBVUQUJC^lU02
+w1777906942
+8C:/altera/91/modelsim_ase/examples/Lab6/adder_6bit_struct.v
+FC:/altera/91/modelsim_ase/examples/Lab6/adder_6bit_struct.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 >CDi1OiIQ115XYHfKhG^m0
+!s85 0
+!s101 -O0
+vbitsum
+IKmmP7EE59j6G>ifcz<B`H0
+VgH[@_aNn>hO8`Hlb^k5Aj0
+w1777906945
+8C:/altera/91/modelsim_ase/examples/Lab6/bitsum.v
+FC:/altera/91/modelsim_ase/examples/Lab6/bitsum.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 lAl69e@ee5ZzdC7:D_e^`0
+!s85 0
+!s101 -O0
+vmy_sum
+IROn1MGoR[]<b?Ike1oXCc1
+V>AYa<]z<eWj:6=M96`WNj3
+w1777899748
+8C:/altera/91/modelsim_ase/examples/Lab6/my_sum.v
+FC:/altera/91/modelsim_ase/examples/Lab6/my_sum.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 ^H1j[K[<kzRnPm5nJZI0H1
+!s85 0
+!s101 -O0
+vref_sum
+IS^eQC[g4Z:@06CaDhGHMe3
+V2OO;EahzC8PXB3K:FbSOT0
+w1777899630
+8C:/altera/91/modelsim_ase/examples/Lab6/ref_sum.v
+FC:/altera/91/modelsim_ase/examples/Lab6/ref_sum.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 5oU@<6>4PN=?fOD?kCf?E0
+!s85 0
+!s101 -O0
+vtb_adder_6bit_Orlyk
+!s100 U>3h1OAnEJah5CQNJZ8d_3
+IRigECYBMV;Le`JMV?kc242
+VhEk`UV2:MYGCW]1BNIlfi3
+w1777907084
+8C:/altera/91/modelsim_ase/examples/Lab6/tb_adder_6bit_Orlyk.v
+FC:/altera/91/modelsim_ase/examples/Lab6/tb_adder_6bit_Orlyk.v
+L0 3
+R1
+r1
+!s85 0
+31
+!s101 -O0
+R2
+R3
+ntb_adder_6bit_@orlyk
+vtest_sum
+IO:U:?<i5Q1EEa0ZNND_MF1
+V?[S@XOc7;P58OizZje^Po0
+w1777899671
+8C:/altera/91/modelsim_ase/examples/Lab6/test_sum.v
+FC:/altera/91/modelsim_ase/examples/Lab6/test_sum.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 :SY`J<DQk?F1zefV>Z^ST2
+!s85 0
+!s101 -O0

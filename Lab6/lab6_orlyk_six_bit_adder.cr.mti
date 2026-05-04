@@ -1,0 +1,29 @@
+C:/altera/91/modelsim_ase/examples/Lab6/adder_6bit_ref.v {1 {vlog -work work -nocovercells C:/altera/91/modelsim_ase/examples/Lab6/adder_6bit_ref.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module adder_6bit_ref
+
+Top level modules:
+	adder_6bit_ref
+
+} {} {}} C:/altera/91/modelsim_ase/examples/Lab6/adder_6bit_struct.v {1 {vlog -work work -nocovercells C:/altera/91/modelsim_ase/examples/Lab6/adder_6bit_struct.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module adder_6bit_struct
+
+Top level modules:
+	adder_6bit_struct
+
+} {} {}} C:/altera/91/modelsim_ase/examples/Lab6/bitsum.v {1 {vlog -work work -nocovercells C:/altera/91/modelsim_ase/examples/Lab6/bitsum.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module bitsum
+
+Top level modules:
+	bitsum
+
+} {} {}} C:/altera/91/modelsim_ase/examples/Lab6/tb_adder_6bit_Orlyk.v {1 {vlog -work work -nocovercells C:/altera/91/modelsim_ase/examples/Lab6/tb_adder_6bit_Orlyk.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module tb_adder_6bit_Orlyk
+
+Top level modules:
+	tb_adder_6bit_Orlyk
+
+} {} {}}
